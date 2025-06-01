@@ -1,0 +1,2 @@
+influent_flow,influent_characteristics,removal_efficiencies,sludge_parameters,energy_consumption,potential_biogas,potential_ch4,potential_energy_mwh
+50000,"{'cod': 500, 'tn': 50, 'tp': 10}","{'cod': 0.9, 'tn': 0.75, 'tp': 0.8}","{'production_rate': 0.001, 'vs_content': 0.7, 'biogas_yield': 0.35, 'ch4_content': 0.6}",0.5,12250.0,7350.0,73.2795
